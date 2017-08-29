@@ -42,6 +42,8 @@ Run the test cases of the project using following command
 Build the project using following command
 
   sbt assembly
+  
+COPY the contents of input folder to  /folder_to_source/weather_analyzer/target/scala-2.12/ where jar file is created 
 
 Run the application using following command 
 
